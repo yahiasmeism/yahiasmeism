@@ -26,12 +26,12 @@ I'm a passionate Flutter developer and Laravel enthusiast with a keen interest i
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiasmeism&theme=github_dark"/>
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahiasmeism&theme=github_dark"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yahiasmeism&show_icons=true&theme=github_dark" />
+	<img width="70%" src="https://github-readme-stats.vercel.app/api?username=yahiasmeism&show_icons=true&theme=github_dark" />
 </p>
 
 
