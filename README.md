@@ -31,7 +31,7 @@ I'm a passionate Flutter developer and Laravel enthusiast with a keen interest i
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="70%" src="https://github-readme-stats.vercel.app/api?username=yahiasmeism&show_icons=true&theme=github_dark" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api?username=yahiasmeism&show_icons=true&theme=github_dark" />
 </p>
 
 
