@@ -2,13 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Yahia Smeism</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter Developer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
- 
-</p>
-
-
+	 
 # 💫 About Me :
 I'm a passionate Flutter developer and Laravel enthusiast with a keen interest in programming and technology. I love building applications that solve real-world problems and continuously strive to improve my skills.
 
